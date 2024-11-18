@@ -266,6 +266,7 @@ form>textarea {
     border-bottom: solid 1px whitesmoke;
     resize: none;
     text-align: center;
+    overflow-x: hidden;
 }
 
 form>textarea{
